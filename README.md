@@ -1,5 +1,10 @@
 # Ubuntu-install-tutorial (USB bootable version)
 
+```
+    製作：Timothy_Su 蘇翰庭
+    特別感謝：ChatGPT & Ubuntu-TW
+```
+
 ## 目標
 
 本教材將引導你如何在 Linux（如 Ubuntu）或 macOS 系統上，製作可開機的 Ubuntu 安裝 USB，並透過該 USB 安裝 Ubuntu 至目標主機。
@@ -8,12 +13,12 @@
 
 ## 目錄
 
-1. 環境需求
-2. 下載 Ubuntu ISO
-3. 製作 USB 開機碟
-4. BIOS / UEFI 設定
-5. 安裝 Ubuntu 系統
-6. 安裝完成後的設定
+1. [環境需求](#1-環境需求)
+2. [下載 Ubuntu ISO](#2-下載 Ubuntu ISO)
+3. [製作 USB 開機碟](#3-製作 USB 開機碟)
+4. [BIOS / UEFI 設定](#4-BIOS / UEFI 設定)
+5. [安裝 Ubuntu 系統](#5-安裝 Ubuntu 系統)
+6. [安裝完成後的設定](#6-)
 
 ---
 
@@ -120,7 +125,11 @@ https://ubuntu.com/download/server
   ```bash
   sudo apt install git vim curl build-essential htop tmux
   ```
----
+- **安裝Ubuntu Desktop GUI**
+  ```bash
+  sudo apt install ubuntu-desktop
+  ```
+  ---
 
 ## 附註
 
@@ -130,9 +139,5 @@ https://ubuntu.com/download/server
 
 ---
 
-製作：`Timothy_Su 蘇翰庭`  
-版本：v1.0  
-更新日期：2025/05/22
 
-特別感謝：ChatGPT,Ubuntu-TW
 
