@@ -14,11 +14,11 @@
 ## 目錄
 
 1. [環境需求](#1-環境需求)
-2. [下載 Ubuntu ISO](#2-下載 Ubuntu ISO)
-3. [製作 USB 開機碟](#3-製作 USB 開機碟)
-4. [BIOS / UEFI 設定](#4-BIOS / UEFI 設定)
-5. [安裝 Ubuntu 系統](#5-安裝 Ubuntu 系統)
-6. [安裝完成後的設定](#6-)
+2. [下載 Ubuntu ISO](#2-下載-Ubuntu-ISO)
+3. [製作 USB 開機碟](#3-製作-USB-開機碟)
+4. [BIOS / UEFI 設定](#4-BIOS-/-UEFI-設定)
+5. [安裝 Ubuntu 系統](#5-安裝-Ubuntu-系統)
+6. [安裝完成後的設定](#6-安裝完成後的設定)
 
 ---
 
